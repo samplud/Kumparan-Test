@@ -5,7 +5,7 @@ module.exports = {
     before : function(browser){
         utils(browser).openBrowser();
     },
-    'Go to login page': function(browser) {
+    'Go to login': function(browser) {
         utils(browser).loginMainButton();
     },
     'Fill login page': function(browser) {
