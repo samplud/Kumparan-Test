@@ -1,0 +1,25 @@
+16:49:19.221 INFO [GridLauncherV3.parse] - Selenium server version: 3.141.59, revision: e82be7d358
+16:49:19.363 INFO [GridLauncherV3.lambda$buildLaunchers$3] - Launching a standalone Selenium Server on port 4444
+2018-12-16 16:49:19.436:INFO::main: Logging initialized @600ms to org.seleniumhq.jetty9.util.log.StdErrLog
+16:49:19.818 INFO [WebDriverServlet.<init>] - Initialising WebDriverServlet
+16:49:20.094 INFO [SeleniumServer.boot] - Selenium Server is up and running on port 4444
+16:49:20.492 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "chromeOptions": {
+    "args": [
+      "start-maximized"
+    ]
+  },
+  "javascriptEnabled": true,
+  "marionette": true,
+  "name": "UI Test\\ Kumparan Login UI"
+}
+16:49:20.495 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90) on port 4622
+Only local connections are allowed.
+16:49:23.447 INFO [ProtocolHandshake.createSession] - Detected dialect: OSS
+16:49:23.992 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 65c28e03280f94e1a090412c882aa989 (org.openqa.selenium.chrome.ChromeDriverService)
+[1544953827.882][SEVERE]: Unable to receive message from renderer
+[1544953827.883][SEVERE]: Unable to receive message from renderer
+16:51:07.894 INFO [ActiveSessions$1.onStop] - Removing session 65c28e03280f94e1a090412c882aa989 (org.openqa.selenium.chrome.ChromeDriverService)

@@ -1,0 +1,22 @@
+{
+  "name": "learnautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nightwatch.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "nightwatch": "^0.9.21",
+    "nightwatch-html-reporter": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test:loginUI": "node nightwatch -e chrome -a KumparanLoginUI && nightwatch-html-reporter -d D:/automation/learnAutomation/reports",
+    "test:bacaUI": "node nightwatch -e chrome -a KumparanBacaUI",
+    "report": "nightwatch-html-reporter -d D:/automation/learnAutomation/reports --theme compact"
+  },
+  "author": "",
+  "license": "ISC"
+}
