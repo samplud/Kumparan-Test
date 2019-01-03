@@ -5,7 +5,7 @@ module.exports = function(browser) {
             .url('https://kumparan.com/')
             .waitForElementVisible('body', 1000);
         return browser;
-    };
+    };  
 
     this.BacaBerita = function(){
         browser

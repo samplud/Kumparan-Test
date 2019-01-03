@@ -1,0 +1,33 @@
+{
+    "search1": {
+        "scheme":"https",
+        "device":"desktop",
+        "related": true,
+        "catalog_rows": 5,
+        "source": "search",
+        "ob": 23,
+        "st":"product",
+        "rows": 60,
+        "q":"xiaomi+mi"
+    },
+    "search2": {
+        "scheme":"https",
+        "device":"desktop",
+        "related": true,
+        "catalog_rows": 5,
+        "source": "search",
+        "ob": 23,
+        "st":"product",
+        "rows": 60,
+        "q":"samsung"
+    },
+    "login": {
+        "data": {
+            "clientid": "gfeufieyey9ye9y",
+            "clientInterface": "desktop",
+            "scope": "access_level_partial"
+            },
+            "fields": [],
+            "clientInterface": "desktop"
+    }
+}
