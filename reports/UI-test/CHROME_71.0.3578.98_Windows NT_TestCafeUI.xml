@@ -5,9 +5,9 @@
 
   <testsuite name="UI-test.TestCafeUI"
     errors="0" failures="0" hostname="" id="" package="UI-test" skipped="0"
-    tests="1" time="15.86" timestamp="Thu, 03 Jan 2019 00:51:16 GMT">
+    tests="1" time="53.18" timestamp="Thu, 03 Jan 2019 07:37:53 GMT">
   
-    <testcase name="Go to login page" classname="UI-test.TestCafeUI" time="15.86" assertions="1">
+    <testcase name="Go to login page" classname="UI-test.TestCafeUI" time="53.18" assertions="1">
 
     
     </testcase>

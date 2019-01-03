@@ -1,13 +1,13 @@
-var utils = require ('../../pages/TestCafe.js');
+var TestCafe = require ('../../pages/TestCafe.js');
 
 module.exports = {
     '@tags' : ['TestCafeUI'],
     before : function(browser){
-        utils(browser).openBrowser();
+        TestCafe(browser).openBrowser();
     },
 
     'Go to login page': function(browser) {
-        utils(browser).Isilah();
+        TestCafe(browser).Isilah();
     },
     
     after :function(browser){
