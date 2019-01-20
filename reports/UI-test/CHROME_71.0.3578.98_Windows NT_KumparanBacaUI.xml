@@ -5,9 +5,9 @@
 
   <testsuite name="UI-test.KumparanBacaUI"
     errors="0" failures="0" hostname="" id="" package="UI-test" skipped="0"
-    tests="1" time="46.83" timestamp="Sun, 30 Dec 2018 07:21:59 GMT">
+    tests="1" time="37.35" timestamp="Sat, 19 Jan 2019 13:55:30 GMT">
   
-    <testcase name="Go to read news" classname="UI-test.KumparanBacaUI" time="46.83" assertions="2">
+    <testcase name="Go to read news" classname="UI-test.KumparanBacaUI" time="37.35" assertions="2">
 
     
 
