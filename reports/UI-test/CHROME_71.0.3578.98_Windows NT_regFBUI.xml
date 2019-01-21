@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="UI-test.regFBUI"
+    errors="0" failures="0" hostname="" id="" package="UI-test" skipped="0"
+    tests="1" time="20.54" timestamp="Mon, 21 Jan 2019 18:08:22 GMT">
+  
+    <testcase name="Go to Registration page" classname="UI-test.regFBUI" time="20.54" assertions="1">
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
